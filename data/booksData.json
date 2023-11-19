@@ -1,0 +1,182 @@
+[
+	{
+		"title": "Ocean's Echo",
+		"author": "Richard Powers",
+		"description": "An immersive novel exploring human consciousness.",
+		"price": 15.99,
+		"category": "Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/51f2oKtKPIL._SY445_SX342_.jpg",
+		"stock": 10
+	},
+	{
+		"title": "Lessons in Chemistry",
+		"author": "Bonnie Garmus",
+		"description": "A captivating story of a female scientist in the 1960s.",
+		"price": 16.99,
+		"category": "Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/41HQsj07WpL._SY445_SX342_.jpg",
+		"stock": 8
+	},
+	{
+		"title": "The Dawn of Everything",
+		"author": "David Graeber, David Wengrow",
+		"description": "A new history of humanity.",
+		"price": 18.99,
+		"category": "Non-Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/41YbEfHMonL._SY445_SX342_.jpg",
+		"stock": 5
+	},
+	{
+		"title": "Empire of Pain",
+		"author": "Patrick Radden Keefe",
+		"description": "The secret history of the Sackler dynasty.",
+		"price": 17.99,
+		"category": "Non-Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/412mVHKD4oL._SY445_SX342_.jpg",
+		"stock": 7
+	},
+	{
+		"title": "The Maid",
+		"author": "Nita Prose",
+		"description": "A charmingly eccentric hotel maid becomes embroiled in a murder investigation.",
+		"price": 15.99,
+		"category": "Mystery",
+		"imageUrl": "https://m.media-amazon.com/images/I/41GdVl1a7XL._SY445_SX342_.jpg",
+		"stock": 6
+	},
+	{
+		"title": "The Paris Apartment",
+		"author": "Lucy Foley",
+		"description": "A thrilling mystery set in a Paris apartment building.",
+		"price": 14.99,
+		"category": "Mystery",
+		"imageUrl": "https://m.media-amazon.com/images/I/51Sp3foQVIL._SY445_SX342_.jpg",
+		"stock": 9
+	},
+	{
+		"title": "Project Hail Mary",
+		"author": "Andy Weir",
+		"description": "A lone astronaut must save the earth from disaster.",
+		"price": 18.99,
+		"category": "Science Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/51YS2zsN+iL._SY445_SX342_.jpg",
+		"stock": 12
+	},
+	{
+		"title": "Leviathan Falls",
+		"author": "James S.A. Corey",
+		"description": "The final book in the Expanse series.",
+		"price": 20.99,
+		"category": "Science Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/51IE5dP7Y7L._SY445_SX342_.jpg",
+		"stock": 11
+	},
+	{
+		"title": "The Storyteller",
+		"author": "Dave Grohl",
+		"description": "The life story of the legendary musician and Foo Fighters frontman.",
+		"price": 22.99,
+		"category": "Biography",
+		"imageUrl": "https://m.media-amazon.com/images/I/410OpYExDjL._SY445_SX342_.jpg",
+		"stock": 10
+	},
+	{
+		"title": "Greenlights",
+		"author": "Matthew McConaughey",
+		"description": "A memoir filled with raucous stories, outlaw wisdom, and lessons learned the hard way.",
+		"price": 24.99,
+		"category": "Biography",
+		"imageUrl": "https://m.media-amazon.com/images/I/41JMH+5JNCL._SY445_SX342_.jpg",
+		"stock": 8
+	},
+	{
+		"title": "The Lincoln Highway",
+		"author": "Amor Towles",
+		"description": "A novel set in the 1950s, following four young men on a journey from Nebraska to New York.",
+		"price": 16.99,
+		"category": "Historical Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/51q29mu41YL._SY445_SX342_.jpg",
+		"stock": 9
+	},
+	{
+		"title": "Cloud Cuckoo Land",
+		"author": "Anthony Doerr",
+		"description": "A tale weaving through past, present, and future, exploring human connection.",
+		"price": 20.99,
+		"category": "Literary Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/5184hNUzpgL._SY445_SX342_.jpg",
+		"stock": 7
+	},
+	{
+		"title": "Beautiful World, Where Are You",
+		"author": "Sally Rooney",
+		"description": "A story about relationships, friendships, and the dialogues we have within ourselves.",
+		"price": 18.99,
+		"category": "Contemporary Romance",
+		"imageUrl": "https://m.media-amazon.com/images/I/51SIH6nVNNL._SY445_SX342_.jpg",
+		"stock": 12
+	},
+	{
+		"title": "Atomic Habits",
+		"author": "James Clear",
+		"description": "An insightful guide to building good habits and breaking bad ones.",
+		"price": 21.99,
+		"category": "Self-Help",
+		"imageUrl": "https://m.media-amazon.com/images/I/51rS7LgLt8L._SY445_SX342_.jpg",
+		"stock": 15
+	},
+	{
+		"title": "The Body Keeps the Score",
+		"author": "Bessel van der Kolk",
+		"description": "A revolutionary look at the science of trauma and pathways to healing.",
+		"price": 19.99,
+		"category": "Psychology",
+		"imageUrl": "https://m.media-amazon.com/images/I/41DFLjSxhKL._SY445_SX342_.jpg",
+		"stock": 6
+	},
+	{
+		"title": "Dune",
+		"author": "Frank Herbert",
+		"description": "A masterpiece of science fiction that explores politics, religion, and power.",
+		"price": 14.99,
+		"category": "Science Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/41LmPEurOOL._SY445_SX342_.jpg",
+		"stock": 10
+	},
+	{
+		"title": "Becoming",
+		"author": "Michelle Obama",
+		"description": "The former First Lady's memoir, a work of deep reflection and mesmerizing storytelling.",
+		"price": 17.99,
+		"category": "Memoir",
+		"imageUrl": "https://m.media-amazon.com/images/I/41dsMrDb-nL._SY445_SX342_.jpg",
+		"stock": 8
+	},
+	{
+		"title": "Educated",
+		"author": "Tara Westover",
+		"description": "A memoir of a young woman who leaves her survivalist family and goes on to earn a PhD from Cambridge University.",
+		"price": 18.99,
+		"category": "Memoir",
+		"imageUrl": "https://m.media-amazon.com/images/I/41iTM8LkxSL._SY445_SX342_.jpg",
+		"stock": 7
+	},
+	{
+		"title": "Where the Crawdads Sing",
+		"author": "Delia Owens",
+		"description": "A poignant tale of murder, mystery, and a young woman's connection with nature.",
+		"price": 15.99,
+		"category": "Mystery",
+		"imageUrl": "https://m.media-amazon.com/images/I/51v0sZybMtL._SY445_SX342_.jpg",
+		"stock": 12
+	},
+	{
+		"title": "The Four Winds",
+		"author": "Kristin Hannah",
+		"description": "A powerful American epic about love and heroism during the Great Depression.",
+		"price": 17.99,
+		"category": "Historical Fiction",
+		"imageUrl": "https://m.media-amazon.com/images/I/91J7Q1FdSDL._SY425_.jpg",
+		"stock": 9
+	}
+]
